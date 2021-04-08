@@ -1,4 +1,5 @@
 .config/
+images/
 vim/
 led.py
 picam.py
