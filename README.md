@@ -1,2 +1,2 @@
-# school_project
-Home automation system with Raspberry PI
+# School Project
+Home Security alert System with Raspberry PI
